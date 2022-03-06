@@ -1,2 +1,3 @@
 This is a file that I use to practice git push
 I successfully managed to push the local changes to remote github!
+I am trying to use git pull, but it failed. So I am trying instead to use git fetch.
